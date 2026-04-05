@@ -5,7 +5,7 @@
 This project aims to build and evaluate a machine learning model for [your objective].
 
 ## 📂 Project Structure
-- `report/` → Project report (theory & explanation)
+- `report/` → Project report 
 - `notebooks/` → Jupyter notebook with code
 - `data/` → Dataset used in the project
 
@@ -23,3 +23,4 @@ The complete implementation is available in:
 - NumPy
 - Scikit-learn
 - Matplotlib / Seaborn
+....
