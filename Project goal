@@ -1,0 +1,9 @@
+Dans le cadre de ce module,
+vous allez travailler sur un sujet clé de l'analyse de données : le « Customer Churn ».
+L’objectif principal de ce projet est d'effectuer une reproductibilité scientifique à partir de l’article de recherche fourni.
+Concrètement, votre mission consiste à analyser l’étude, à comprendre sa méthodologie et à répliquer les expériences décrites 
+(préparation des données, analyses descriptive et prédictive). Ce travail vous permettra de valider les résultats publiés, mais aussi de proposer des axes d’amélioration
+(comme l'intégration du Clustering ou de l’IA explicable - XAI).
+Modalités pratiques :
+Méthodologie : Le rapport doit impérativement suivre la démarche CRISP-DM.
+Livrables : Un rapport final (en français ou en anglais) et les notebooks (code source) dûment commentés.
